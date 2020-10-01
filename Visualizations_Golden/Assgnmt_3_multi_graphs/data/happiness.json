@@ -1,0 +1,599 @@
+{
+   "Central-African-Republic": [
+      {
+         "life_ladder": "3.678925514",
+         "date": "01/01/2006",
+         "GDP": "6.489778709",
+         "social_support": "0.473333886",
+         "life_expectancy": "39.15467834",
+         "freedom": "0.659950883",
+         "confidence_in_gov": "0.632208948"
+      },
+      {
+         "life_ladder": "4.160129547",
+         "date": "01/01/2007",
+         "GDP": "6.778674126",
+         "social_support": "0.532296896",
+         "life_expectancy": "38.52074051",
+         "freedom": "0.662871003",
+         "confidence_in_gov": "0.623565912"
+      },
+      {
+         "life_ladder": "3.563227654",
+         "date": "01/01/2008",
+         "GDP": "6.560853004",
+         "social_support": "0.390933818",
+         "life_expectancy": "46.19230652",
+         "freedom": "0.650069311",
+         "confidence_in_gov": "0.643565912"
+      },
+      {
+         "life_ladder": "3.791680813",
+         "date": "01/01/2009",
+         "GDP": "6.559756279",
+         "social_support": "0.425692534",
+         "life_expectancy": "46.58676147",
+         "freedom": "0.627355915",
+         "confidence_in_gov": "0.693565912"
+      },
+      {
+         "life_ladder": "3.567892551",
+         "date": "01/01/2010",
+         "GDP": "6.789778709",
+         "social_support": "0.483333886",
+         "life_expectancy": "40.15467834",
+         "freedom": "0.689950883",
+         "confidence_in_gov": "0.752208948"
+      },
+      {
+         "life_ladder": "3.677826405",
+         "date": "01/01/2011",
+         "GDP": "6.803105354",
+         "social_support": "0.387390912",
+         "life_expectancy": "40.76605606",
+         "freedom": "0.780017793",
+         "confidence_in_gov": "0.78385824"
+      },
+      {
+         "life_ladder": "3.164491177",
+         "date": "01/01/2012",
+         "GDP": "6.609065056",
+         "social_support": "0.428395178",
+         "life_expectancy": "41.41717911",
+         "freedom": "0.766770619",
+         "confidence_in_gov": "0.75385824"
+      },
+      {
+         "life_ladder": "2.687552929",
+         "date": "01/01/2013",
+         "GDP": "6.509065056",
+         "social_support": "0.405450053",
+         "life_expectancy": "40.99692154",
+         "freedom": "0.65488289",
+         "confidence_in_gov": "0.76385824"
+      },
+      {
+         "life_ladder": "2.904535055",
+         "date": "01/01/2014",
+         "GDP": "6.699169254",
+         "social_support": "0.446467813",
+         "life_expectancy": "48.59316254",
+         "freedom": "0.631384981",
+         "confidence_in_gov": "0.73385824"
+      },
+      {
+         "life_ladder": "3.46191287",
+         "date": "01/01/2015",
+         "GDP": "6.499169254",
+         "social_support": "0.363912874",
+         "life_expectancy": "43.5969162",
+         "freedom": "0.648270857",
+         "confidence_in_gov": "0.74385824"
+      },
+      {
+         "life_ladder": "2.693061113",
+         "date": "01/01/2016",
+         "GDP": "6.599169254",
+         "social_support": "0.29018417",
+         "life_expectancy": "44.02322006",
+         "freedom": "0.624056518",
+         "confidence_in_gov": "0.748754561"
+      }
+   ],
+   "China": [
+      {
+         "life_ladder": "4.560495377",
+         "date": "01/01/2006",
+         "GDP": "8.75777626",
+         "social_support": "0.747011304",
+         "life_expectancy": "67.15834808",
+         "freedom": "0.843074723",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "4.86286211",
+         "date": "01/01/2007",
+         "GDP": "8.8852911",
+         "social_support": "0.810852408",
+         "life_expectancy": "67.40200043",
+         "freedom": "0.833020472",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "4.84629488",
+         "date": "01/01/2008",
+         "GDP": "8.972046852",
+         "social_support": "0.74828732",
+         "life_expectancy": "67.62216187",
+         "freedom": "0.853072047",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "4.454360962",
+         "date": "01/01/2009",
+         "GDP": "9.055391312",
+         "social_support": "0.79803437",
+         "life_expectancy": "67.82163239",
+         "freedom": "0.771143258",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "4.652736664",
+         "date": "01/01/2010",
+         "GDP": "9.15159893",
+         "social_support": "0.767752588",
+         "life_expectancy": "68.0067215",
+         "freedom": "0.804793596",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.037207603",
+         "date": "01/01/2011",
+         "GDP": "9.237420082",
+         "social_support": "0.787171185",
+         "life_expectancy": "68.18330383",
+         "freedom": "0.824162364",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.094917297",
+         "date": "01/01/2012",
+         "GDP": "9.307193756",
+         "social_support": "0.787818193",
+         "life_expectancy": "68.35625458",
+         "freedom": "0.808255136",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.241090298",
+         "date": "01/01/2013",
+         "GDP": "9.376285553",
+         "social_support": "0.777895868",
+         "life_expectancy": "68.53053284",
+         "freedom": null,
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.195619106",
+         "date": "01/01/2014",
+         "GDP": "9.441387177",
+         "social_support": "0.820366025",
+         "life_expectancy": "68.70925903",
+         "freedom": "0.804723918",
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.303877831",
+         "date": "01/01/2015",
+         "GDP": "9.503029823",
+         "social_support": "0.793733716",
+         "life_expectancy": "68.88798523",
+         "freedom": null,
+         "confidence_in_gov": null
+      },
+      {
+         "life_ladder": "5.32495594",
+         "date": "01/01/2016",
+         "GDP": "9.561012268",
+         "social_support": "0.741703033",
+         "life_expectancy": "69.0667038",
+         "freedom": null,
+         "confidence_in_gov": null
+      }
+   ],
+   "India": [
+      {
+         "life_ladder": "5.348258972",
+         "date": "01/01/2006",
+         "GDP": "8.148173332",
+         "social_support": "0.707318068",
+         "life_expectancy": "56.05699539",
+         "freedom": "0.773737073",
+         "confidence_in_gov": "0.649276435"
+      },
+      {
+         "life_ladder": "5.02679348",
+         "date": "01/01/2007",
+         "GDP": "8.21572113",
+         "social_support": "0.568992674",
+         "life_expectancy": "56.39583588",
+         "freedom": "0.728892624",
+         "confidence_in_gov": "0.817411602"
+      },
+      {
+         "life_ladder": "5.145833015",
+         "date": "01/01/2008",
+         "GDP": "8.239263535",
+         "social_support": "0.683593154",
+         "life_expectancy": "56.74042511",
+         "freedom": "0.755839646",
+         "confidence_in_gov": "0.616264701"
+      },
+      {
+         "life_ladder": "4.521517754",
+         "date": "01/01/2009",
+         "GDP": "8.306463242",
+         "social_support": "0.652852058",
+         "life_expectancy": "57.08863831",
+         "freedom": "0.678643644",
+         "confidence_in_gov": "0.698452473"
+      },
+      {
+         "life_ladder": "4.989277363",
+         "date": "01/01/2010",
+         "GDP": "8.390390396",
+         "social_support": "0.604809761",
+         "life_expectancy": "57.43712616",
+         "freedom": "0.783060372",
+         "confidence_in_gov": "0.667365491"
+      },
+      {
+         "life_ladder": "4.634871483",
+         "date": "01/01/2011",
+         "GDP": "8.441379547",
+         "social_support": "0.552593112",
+         "life_expectancy": "57.78087616",
+         "freedom": "0.837551653",
+         "confidence_in_gov": "0.580353677"
+      },
+      {
+         "life_ladder": "4.720146656",
+         "date": "01/01/2012",
+         "GDP": "8.483184814",
+         "social_support": "0.510574579",
+         "life_expectancy": "58.11398697",
+         "freedom": "0.609320104",
+         "confidence_in_gov": "0.539206505"
+      },
+      {
+         "life_ladder": "4.427788734",
+         "date": "01/01/2013",
+         "GDP": "8.534950256",
+         "social_support": "0.552826345",
+         "life_expectancy": "58.43399429",
+         "freedom": "0.740176618",
+         "confidence_in_gov": "0.532654881"
+      },
+      {
+         "life_ladder": "4.424379349",
+         "date": "01/01/2014",
+         "GDP": "8.592615128",
+         "social_support": "0.621466637",
+         "life_expectancy": "58.73919678",
+         "freedom": "0.809382915",
+         "confidence_in_gov": "0.733619034"
+      },
+      {
+         "life_ladder": "4.342079163",
+         "date": "01/01/2015",
+         "GDP": "8.653494835",
+         "social_support": "0.61013329",
+         "life_expectancy": "59.04439545",
+         "freedom": "0.777225256",
+         "confidence_in_gov": "0.694716752"
+      },
+      {
+         "life_ladder": "4.179177284",
+         "date": "01/01/2016",
+         "GDP": "8.713158607",
+         "social_support": "0.613529384",
+         "life_expectancy": "59.34959793",
+         "freedom": "0.820068777",
+         "confidence_in_gov": "0.732104599"
+      }
+   ],
+   "Norway": [
+      {
+         "life_ladder": "7.51893425",
+         "date": "01/01/2006",
+         "GDP": "10.69011307",
+         "social_support": "0.972371519",
+         "life_expectancy": "68.11341095",
+         "freedom": "0.97113502",
+         "confidence_in_gov": "0.66868329"
+      },
+      {
+         "life_ladder": "7.415682316",
+         "date": "01/01/2007",
+         "GDP": "11.0755558",
+         "social_support": "0.958511293",
+         "life_expectancy": "69.56606293",
+         "freedom": "0.959532738",
+         "confidence_in_gov": "0.682717204"
+      },
+      {
+         "life_ladder": "7.632287502",
+         "date": "01/01/2008",
+         "GDP": "11.0854578",
+         "social_support": "0.935878932",
+         "life_expectancy": "69.78147125",
+         "freedom": "0.947288871",
+         "confidence_in_gov": "0.540759981"
+      },
+      {
+         "life_ladder": "7.683358669",
+         "date": "01/01/2009",
+         "GDP": "10.95721607",
+         "social_support": "0.93889159",
+         "life_expectancy": "68.7728653",
+         "freedom": "0.949335575",
+         "confidence_in_gov": "0.626578152"
+      },
+      {
+         "life_ladder": "7.770515442",
+         "date": "01/01/2010",
+         "GDP": "10.96889477",
+         "social_support": "0.974977076",
+         "life_expectancy": "69.21250153",
+         "freedom": "0.943630815",
+         "confidence_in_gov": "0.586689413"
+      },
+      {
+         "life_ladder": "7.78823185",
+         "date": "01/01/2011",
+         "GDP": "11.00232338",
+         "social_support": "0.961736143",
+         "life_expectancy": "69.82499695",
+         "freedom": "0.934760153",
+         "confidence_in_gov": "0.571823335"
+      },
+      {
+         "life_ladder": "7.678277016",
+         "date": "01/01/2012",
+         "GDP": "11.0606842",
+         "social_support": "0.947657406",
+         "life_expectancy": "70.52483368",
+         "freedom": "0.946565866",
+         "confidence_in_gov": "0.663340509"
+      },
+      {
+         "life_ladder": "7.444470882",
+         "date": "01/01/2014",
+         "GDP": "11.06915855",
+         "social_support": "0.941161931",
+         "life_expectancy": "70.78459167",
+         "freedom": "0.956316173",
+         "confidence_in_gov": "0.699690521"
+      },
+      {
+         "life_ladder": "7.603433609",
+         "date": "01/01/2015",
+         "GDP": "11.07365322",
+         "social_support": "0.946833968",
+         "life_expectancy": "70.78459167",
+         "freedom": "0.947620511",
+         "confidence_in_gov": "0.586871624"
+      },
+      {
+         "life_ladder": "7.596331596",
+         "date": "01/01/2016",
+         "GDP": "11.06857204",
+         "social_support": "0.959742844",
+         "life_expectancy": "70.78459167",
+         "freedom": "0.954352319",
+         "confidence_in_gov": "0.657646239"
+      }
+   ],
+   "USA": [
+      {
+         "life_ladder": "7.18179369",
+         "date": "01/01/2006",
+         "GDP": "10.83168602",
+         "social_support": "0.964571774",
+         "life_expectancy": "68.83729553",
+         "freedom": "0.911496103",
+         "confidence_in_gov": "0.558028817"
+      },
+      {
+         "life_ladder": "7.512687683",
+         "date": "01/01/2007",
+         "GDP": "10.83980465",
+         "social_support": "0.930856991",
+         "life_expectancy": "69.1031189",
+         "freedom": "0.871903777",
+         "confidence_in_gov": "0.393245459"
+      },
+      {
+         "life_ladder": "7.280385971",
+         "date": "01/01/2008",
+         "GDP": "10.82742596",
+         "social_support": "0.952587247",
+         "life_expectancy": "69.14850616",
+         "freedom": "0.877956271",
+         "confidence_in_gov": "0.379220605"
+      },
+      {
+         "life_ladder": "7.158032417",
+         "date": "01/01/2009",
+         "GDP": "10.79051113",
+         "social_support": "0.911793768",
+         "life_expectancy": "69.45970917",
+         "freedom": "0.830683827",
+         "confidence_in_gov": "0.503047287"
+      },
+      {
+         "life_ladder": "7.16361618",
+         "date": "01/01/2010",
+         "GDP": "10.80715561",
+         "social_support": "0.926158726",
+         "life_expectancy": "69.59370422",
+         "freedom": "0.828044355",
+         "confidence_in_gov": "0.418275833"
+      },
+      {
+         "life_ladder": "7.115138531",
+         "date": "01/01/2011",
+         "GDP": "10.81540489",
+         "social_support": "0.921705008",
+         "life_expectancy": "69.68231201",
+         "freedom": "0.863202393",
+         "confidence_in_gov": "0.382531583"
+      },
+      {
+         "life_ladder": "7.026226997",
+         "date": "01/01/2012",
+         "GDP": "10.82978344",
+         "social_support": "0.903192282",
+         "life_expectancy": "69.7709198",
+         "freedom": "0.822662294",
+         "confidence_in_gov": "0.348855615"
+      },
+      {
+         "life_ladder": "7.249285221",
+         "date": "01/01/2013",
+         "GDP": "10.83719444",
+         "social_support": "0.92539686",
+         "life_expectancy": "69.85952759",
+         "freedom": "0.79225564",
+         "confidence_in_gov": "0.288647503"
+      },
+      {
+         "life_ladder": "7.151114464",
+         "date": "01/01/2014",
+         "GDP": "10.85337543",
+         "social_support": "0.902097046",
+         "life_expectancy": "69.94813538",
+         "freedom": "0.866076887",
+         "confidence_in_gov": "0.348671198"
+      },
+      {
+         "life_ladder": "6.863946915",
+         "date": "01/01/2015",
+         "GDP": "10.86950111",
+         "social_support": "0.903571069",
+         "life_expectancy": "70.03674316",
+         "freedom": "0.848753452",
+         "confidence_in_gov": "0.346936464"
+      },
+      {
+         "life_ladder": "6.803599834",
+         "date": "01/01/2016",
+         "GDP": "10.87970638",
+         "social_support": "0.896751285",
+         "life_expectancy": "70.12535095",
+         "freedom": "0.757893085",
+         "confidence_in_gov": "0.297205657"
+      }
+   ],
+   "Japan": [
+      {
+         "life_ladder": "6.515817165",
+         "date": "01/01/2006",
+         "GDP": "10.43164539",
+         "social_support": "0.927711964",
+         "life_expectancy": "73.14743042",
+         "freedom": "0.867779255",
+         "confidence_in_gov": "0.350331277"
+      },
+      {
+         "life_ladder": "6.238197803",
+         "date": "01/01/2007",
+         "GDP": "10.46833515",
+         "social_support": "0.938148081",
+         "life_expectancy": "73.66703033",
+         "freedom": "0.796054125",
+         "confidence_in_gov": "0.240005687"
+      },
+      {
+         "life_ladder": "5.91067934",
+         "date": "01/01/2008",
+         "GDP": "10.45738029",
+         "social_support": "0.887304068",
+         "life_expectancy": "73.7388916",
+         "freedom": "0.77207005",
+         "confidence_in_gov": "0.221201479"
+      },
+      {
+         "life_ladder": "5.844999313",
+         "date": "01/01/2009",
+         "GDP": "10.40064907",
+         "social_support": "0.888356864",
+         "life_expectancy": "74.04595184",
+         "freedom": "0.729888022",
+         "confidence_in_gov": "0.251777887"
+      },
+      {
+         "life_ladder": "6.056752682",
+         "date": "01/01/2010",
+         "GDP": "10.44650745",
+         "social_support": "0.901924908",
+         "life_expectancy": "73.96668243",
+         "freedom": "0.771722376",
+         "confidence_in_gov": "0.27027148"
+      },
+      {
+         "life_ladder": "6.262793541",
+         "date": "01/01/2011",
+         "GDP": "10.44392967",
+         "social_support": "0.916703701",
+         "life_expectancy": "73.74215698",
+         "freedom": "0.814396441",
+         "confidence_in_gov": "0.231063634"
+      },
+      {
+         "life_ladder": "5.968216419",
+         "date": "01/01/2012",
+         "GDP": "10.46320438",
+         "social_support": "0.905295432",
+         "life_expectancy": "74.19293976",
+         "freedom": "0.752831519",
+         "confidence_in_gov": "0.169178054"
+      },
+      {
+         "life_ladder": "5.959361553",
+         "date": "01/01/2013",
+         "GDP": "10.47842884",
+         "social_support": "0.923688352",
+         "life_expectancy": "74.40352631",
+         "freedom": "0.821416557",
+         "confidence_in_gov": "0.358106881"
+      },
+      {
+         "life_ladder": "5.922620773",
+         "date": "01/01/2014",
+         "GDP": "10.47974014",
+         "social_support": "0.900040329",
+         "life_expectancy": "74.63196564",
+         "freedom": "0.838051736",
+         "confidence_in_gov": "0.37951529"
+      },
+      {
+         "life_ladder": "5.879684448",
+         "date": "01/01/2015",
+         "GDP": "10.48582172",
+         "social_support": "0.922657192",
+         "life_expectancy": "74.86040497",
+         "freedom": "0.831694186",
+         "confidence_in_gov": "0.352867216"
+      },
+      {
+         "life_ladder": "5.954650879",
+         "date": "01/01/2016",
+         "GDP": "10.49381065",
+         "social_support": "0.899773836",
+         "life_expectancy": "75.08885193",
+         "freedom": "0.836064637",
+         "confidence_in_gov": "0.362200648"
+      }
+   ]
+}
